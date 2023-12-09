@@ -25,4 +25,20 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=francis4402&" alt="francis4402" /></p>
 
 <h3 align="left">Recent Projects</h3>
+<p align="left">
+  <h1>Brand-Shop</h1>
+  <h3>All-Electronics Product Store</h3> 
 
+  live link: https://ecomercestore-8b8da.web.app/
+
+
+![Screenshot(24)](https://github.com/Francis4402/Brand-Shop/assets/91011882/8e6f5ad6-9d3a-4611-82d7-b600effcd0ff)
+
+# Website Features: 
+
+   - you can login and register
+   - user can update files
+   - adding new products
+   - dark and light mode features
+   - sidebar for redirecting to the products that you want
+</p>
